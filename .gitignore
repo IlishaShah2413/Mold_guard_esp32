@@ -1,0 +1,18 @@
+# Build outputs
+build/
+*.bin
+*.elf
+*.map
+
+# Arduino IDE
+*.bak
+
+# VS Code
+.vscode/settings.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Credentials (never commit these!)
+# If you hardcode WiFi/API keys, consider using a secrets.h instead

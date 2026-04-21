@@ -1,0 +1,8 @@
+{
+    "sketch": "sketch/sketch.ino",
+    "board": "esp32:esp32:esp32",
+    "output": "./build",
+    "libraryPath": [
+        "C:\\Users\\intel\\.arduinoIDE\\Libraries"
+    ]
+}
